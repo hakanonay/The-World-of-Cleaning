@@ -1,0 +1,60 @@
+#sidebar-front-page-widget-area .widget {
+    padding: 40px 0;
+    margin: 0;
+}
+#sidebar-front-page-widget-area .widget {
+    padding: 50px 0;
+    margin: 0;
+}
+.widget:first-child {
+    margin: 0;
+}
+.widget {
+    margin: 30px 0 0;
+}
+article, aside, details, figcaption, figure, footer, header, main, menu, nav, section, summary {
+    display: block;
+}
+*, *:before, *:after {
+    box-sizing: inherit;
+}
+user agent stylesheet
+aside {
+    display: block;
+}
+body {
+    background-color: #fff;
+    word-wrap: break-word;
+}
+body {
+    font-family: arial;
+    color: #888;
+    font-size: 16px;
+    line-height: 1.7;
+    margin: 0;
+}
+html {
+    font-family: arial;
+    -webkit-text-size-adjust: 100%;
+    -ms-text-size-adjust: 100%;
+}
+.clear-fix:after, .entry-content:after, .comment-content:after, .site-header:after, .site-content:after, .site-footer:after, .widget:after, .widget:before {
+    clear: both;
+}
+.clear-fix:before, .clear-fix:after, .entry-content:before, .entry-content:after, .comment-content:before, .comment-content:after, .site-header:before, .site-header:after, .site-content:before, .site-content:after, .site-footer:before, .site-footer:after, #sidebar-front-page-widget-area:after, #sidebar-front-page-widget-area:before, #featured-slider:after, #featured-slider:before, .widget:after, .widget:before {
+    content: "";
+    display: table;
+}
+*, *:before, *:after {
+    box-sizing: inherit;
+}
+.clear-fix:after, .entry-content:after, .comment-content:after, .site-header:after, .site-content:after, .site-footer:after, .widget:after, .widget:before {
+    clear: both;
+}
+.clear-fix:before, .clear-fix:after, .entry-content:before, .entry-content:after, .comment-content:before, .comment-content:after, .site-header:before, .site-header:after, .site-content:before, .site-content:after, .site-footer:before, .site-footer:after, #sidebar-front-page-widget-area:after, #sidebar-front-page-widget-area:before, #featured-slider:after, #featured-slider:before, .widget:after, .widget:before {
+    content: "";
+    display: table;
+}
+*, *:before, *:after {
+    box-sizing: inherit;
+}
